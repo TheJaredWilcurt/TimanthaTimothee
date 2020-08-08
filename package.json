@@ -1,0 +1,14 @@
+{
+    "title": "Timantha Timothee's Portfolio",
+    "name": "timantha-timothees-portfolio",
+    "version": "1.0.0",
+    "description": "A stylish portfolio",
+    "keywords": [
+        "css",
+        "html",
+        "js",
+        "optimization"
+    ],
+    "license": "MIT",
+    "author": "Timantha Timothee"
+}
